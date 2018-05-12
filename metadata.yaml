@@ -1,0 +1,33 @@
+_repo: When-Love-Calls_39214
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Weyman, Stanley John
+    alias: Weyman, Stanley J. (Stanley John)
+    birthdate: 1855
+    deathdate: 1928
+    gutenberg_agent_id: '742'
+    url: http://www.gutenberg.org/2009/agents/742
+    wikipedia: http://en.wikipedia.org/wiki/Stanley_J._Weyman
+description: 'When love calls: I. Her story. II. His story.--A strange invitation.--The
+  invisible portraits.--Along the Garonne.'
+gutenberg_issued: '2012-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39214'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'France -- Fiction'
+- !lcsh 'Short stories, English'
+tableOfContents: 'When love calls: Her story. His story -- A strange invitation --
+  The invisible portraits -- Along the Garonne.'
+title: When Love Calls
+url: http://www.gutenberg.org/ebooks/39214
