@@ -14,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Stanley_J._Weyman
 description: 'When love calls: I. Her story. II. His story.--A strange invitation.--The
   invisible portraits.--Along the Garonne.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39214#When-Love-Calls
 gutenberg_issued: '2012-03-20'
 gutenberg_type: Text
 identifiers:
